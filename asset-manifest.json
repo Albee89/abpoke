@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abpoke/static/css/main.073c9b0a.css",
+    "main.js": "/abpoke/static/js/main.c038e51e.js",
+    "static/js/787.bb16620c.chunk.js": "/abpoke/static/js/787.bb16620c.chunk.js",
+    "index.html": "/abpoke/index.html",
+    "main.073c9b0a.css.map": "/abpoke/static/css/main.073c9b0a.css.map",
+    "main.c038e51e.js.map": "/abpoke/static/js/main.c038e51e.js.map",
+    "787.bb16620c.chunk.js.map": "/abpoke/static/js/787.bb16620c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c038e51e.js"
+  ]
+}
